@@ -1,5 +1,4 @@
 // index.js
-import { Metadata } from 'next'
 import styles from "./page.module.css";
 import prisma from "../lib/prisma";
 
